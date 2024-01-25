@@ -11,6 +11,11 @@
     height: 2em;
     width: 2em;
     margin: 1em;
+    transition: 1s;
+}
+.caja:hover {
+    border-radius:10% 24% 50% 30%;
+    transition: 1s;
 }
 
 .a {
