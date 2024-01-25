@@ -1,8 +1,6 @@
 #cajon {
-    height: 100 vh;
-    width: 100 wh;
-
-    background-color: rgb(240, 11, 49);
+    height: 100vh;
+    width: 100vw;
 
     display: flex;
     justify-content: center;
@@ -10,37 +8,38 @@
 }
 
 .caja {
-    height: 2 em;
-    width: 2 em;
+    height: 2em;
+    width: 2em;
+    margin: 1em;
 }
 
-#a {
-    background-color:aqua
+.a {
+    background-color:aqua;
 }
-#b {
-    background-color:blueviolet
+.b {
+    background-color:blueviolet;
 }
-#c {
-    background-color:rgb(0, 0, 0)
+.c {
+    background-color:rgb(0, 0, 0);
 }
-#d {
-    background-color:rgb(194, 115, 147)
+.d {
+    background-color:rgb(194, 115, 147);
 }
-#e {
-    background-color:rgb(2, 91, 69)
+.e {
+    background-color:rgb(2, 91, 69);
 }
-#f {
-    background-color:rgb(255, 255, 255)
+.f {
+    background-color:rgb(60, 24, 24);
 }
-#g {
-    background-color:rgb(33, 0, 63)
+.g {
+    background-color:rgb(33, 0, 63);
 }
-#h {
-    background-color:rgb(208, 255, 0)
+.h {
+    background-color:rgb(208, 255, 0);
 }
-#i {
-    background-color:rgb(197, 0, 167)
+.i {
+    background-color:rgb(197, 0, 167);
 }
-#j {
-    background-color:rgb(60, 55, 65)
+.j {
+    background-color:rgb(60, 55, 65);
 }
